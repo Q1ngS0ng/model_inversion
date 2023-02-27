@@ -1,0 +1,9 @@
+CFG:
+  TRAINDIR: 'faces/train'  # directory where we store our data
+  IMG_Y_SIZE: 112
+  IMG_X_SIZE: 92
+  NUM_NAMES: 40
+  X_path: "./pickles/X.pickle"
+  y_path: "./pickles/y.pickle"
+  XT_path: "./pickles/XT.pickle"
+  yt_path: "./pickles/yt.pickle"
